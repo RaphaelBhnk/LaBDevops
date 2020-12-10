@@ -5,7 +5,7 @@ node_js:
 services:
 - redis-server
 script:
-- echo 'Starting'
+- echo 'Starting hello'
 - npm install
 - echo 'Testing'
 - npm test
