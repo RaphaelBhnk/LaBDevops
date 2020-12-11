@@ -17,4 +17,4 @@ deploy:
   on:
     repo: RaphaelBhnk/LaBDevops
     branch: main
-  skip_cleanup: 'true'
+  skip_cleanup: 'true' 
